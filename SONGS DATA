@@ -1,4 +1,1 @@
-The SONGS Folder consistes of the files in csv format which are the ones I used for my recommendation code it contains the lyrics of songs written by different authors .
-I used the similarity between these lyrics and generated the recommended songs . I also used Natural Language Tool Kit for preprocessing of the lyrics and it is content
-based recommendation system which reccommends the songs directly based on individuals Liking and Disliking of the songs , where the sraight forword Procedure for it is 
-vectoriztion and calculating the cosine similrity.
+
